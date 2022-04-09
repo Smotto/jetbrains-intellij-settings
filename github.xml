@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Smotto" id="f8152173-72ca-4a2d-9826-c1b883300954">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
