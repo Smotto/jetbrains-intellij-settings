@@ -1,11 +1,14 @@
 <scheme name="_@user_Xcode-Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-04-10T01:43:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-09-29T07:46:31</property>
+    <property name="modified">2022-09-30T19:31:21</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2f3239" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
