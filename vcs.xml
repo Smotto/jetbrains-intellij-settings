@@ -10,9 +10,17 @@
           <option name="url" value="https://github.com/proglabs/google-maps-with-flutter" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/flutter/samples/tree/main/game_template" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/flutter/samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Development\CodingProjects\JavaProjects" />
+    <option name="cloneParentDir" value="E:\Development\CodingProjects\FlutterApps" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
